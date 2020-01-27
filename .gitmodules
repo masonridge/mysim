@@ -1,0 +1,3 @@
+[submodule "mytrick"]
+	path = mytrick
+	url = https://github.com/masonridge/trick.git
